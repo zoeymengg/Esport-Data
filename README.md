@@ -8,3 +8,13 @@ https://ucladatares.medium.com/the-history-of-esports-a-look-into-the-developmen
 ## Datasets 
 
 The data used in our article and in my analysis came from [here](https://www.kaggle.com/datasets/rankirsh/esports-earnings?select=GeneralEsportData.csv).
+
+### Research Topics
+
+We conducted our analysis with these topics in mind.
+
+##### Number of Esports Tournaments by Genre
+##### Impact of Covid on the Gaming Industry
+##### Largest Games Based on Pro Playerbase
+##### Largest Games Based on Prize Pool
+##### Trends from 2010 to 2020
